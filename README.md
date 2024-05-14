@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá Pessoal! 👋
 
-<!--
+
 **tvac2024/tvac2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Trabalho na EE Prof Christiano Marques Bonilha
+- 🌱 Atualmente estou aprendendo o GITHUB
+- 👯 Procuro ajudar colegas de trabalho
+- 🤔 Tenho dificuldades com tecnologia, por isso estou sempre estudando
+- 💬 Gosto de conversar sobre arte
+- 📫 Meu email: taraujo@professor.educacao.sp.gov.br
+  
+
