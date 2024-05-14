@@ -11,5 +11,7 @@
 - 🤔 Tenho dificuldades com tecnologia, por isso estou sempre estudando
 - 💬 Gosto de conversar sobre arte
 - 📫 Meu email: taraujo@professor.educacao.sp.gov.br
+- !{}(https://media1.tenor.com/m/QS3nAXrYRDAAAAAC/meta-metadigital.gif)
+- 
   
 
